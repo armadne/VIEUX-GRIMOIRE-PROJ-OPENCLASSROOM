@@ -1,0 +1,12 @@
+Executer ceci pour créer le dossier node modules pour réussir a lancer le frontend et backend :
+
+cd Backend
+
+npm install
+
+cd ..
+
+cd Frontend
+
+npm install
+
